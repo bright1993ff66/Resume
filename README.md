@@ -11,14 +11,15 @@ Date of Birth: 1993-02-17
 ## Research Interests
 
 + **Natural Language Processing**  
-  - sentiment analysis, cross domain adaptation in NLP, representation learning  
+  - sentiment analysis, cross domain adaptation in NLP, representation learning
+  - social media data analysis
 	
 + **Statistical Modeling**  
   - empirical-likelihood based inference  
-	- multiple linear regression
+  - multiple linear regression
 	
-+ **Image Processing**  
-	 - image classification, pattern recognition
++ **Image Processing**
+  - image classification, pattern recognition
 
 
 ## Education 
@@ -28,7 +29,7 @@ Date of Birth: 1993-02-17
 PhD Student
 
 + **2015.09 - 2016.09**  
-**The University of Edinburgh, Scotland, UK**  
+**The University of Edinburgh, Scotland, UK**
 MSc. Statistics and Operational Research 
 	- Overall Classification of the Qualification: With Distinction	
 	- Average Points: 77/100
