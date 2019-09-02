@@ -1,17 +1,21 @@
-Name: Haoliang Chang  
+Name: Haoliang Chang
+
 Tel: (+852) 52265021
+
 Email: <bright19936666@hotmail.com>   
+
 GitHub: https://github.com/bright1993ff66  
+
 Date of Birth: 1993-02-17  
 
 ## Research Interests
 
 + **Natural Language Processing**  
   - sentiment analysis, cross domain adaptation in NLP, representation learning  
-	 
+	
 + **Statistical Modeling**  
   - empirical-likelihood based inference  
-	  - multiple linear regression
+	- multiple linear regression
 	
 + **Image Processing**  
 	 - image classification, pattern recognition
