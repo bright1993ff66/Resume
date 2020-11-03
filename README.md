@@ -4,7 +4,7 @@ Tel: (+852) 52265021
 
 Email: <hlchang4-c@my.cityu.edu.hk>  
 
-GitHub: https://github.com/bright1993ff66  
+GitHub: <https://github.com/bright1993ff66>  
 
 Date of Birth: 1993-02-17  
 
@@ -18,8 +18,6 @@ Date of Birth: 1993-02-17
   - empirical-likelihood based inference  
   - multiple linear regression
 	
-+ **Image Processing**
-  - image classification, pattern recognition
 
 
 ## Education 
@@ -51,24 +49,11 @@ MSc. Statistics and Operational Research
 	- Firstly used basic machine learning methods(Naïve Bayes, logistics regression, SVM, etc.) to classify the sentiments 
 	- Then implemented word embeddings, MLP classifier, etc. to solve the sentiment analysis problem
 
-+ **2016.11 - 2017.02**   
-**Image Classification of the MNIST Database** 
-	- Constructed basic CNN and RNN structure based on tensorflow to solve the MNIST classification problem
-
 + **2016.05 - 2016.08**   
 **Application of Empirical Likelihood for Statistical Analysis(MSc. dissertation)**
 	- Implemented empirical likelihood method on various datasets and made relevant statistical inference from univariate mean to regression parameters 
 	- Successfully proved that the empirical likelihood approach was more data-oriented than the parametric methods 
 
-+ **2016.01 - 2016.02** Researcher   
-**Production Plan Optimization of a Laptop Company(Coursework)**
-	- Used R, Arena to explore the distribution of time spent in every phase of the plan 
-	- Built the simulated system via Arena, estimated the production time of every laptop and optimized the whole system to decrease the cost
-  
-+ **2015.10 - 2015.11** Researcher   
-**Production Plan Optimization of an Oil Company(Coursework)**  
-	- Decreased the running cost of that oil company by constructing better production plan using Excel and Xpress 
-	- Based on the output of Xpress, produced applicable advice, worked out a result which could improve the profit by 6% approximately
 
 ## Work Experience  
 
