@@ -13,7 +13,7 @@ Date of Birth: 1993-02-17
 + **Social Media Data Analysis**  
   - Sentiment Analysis of Tweets/Weibos
   - Traffic-related Social Media Data Detection, GIS analysis and Characterization
-	- Social Media Community Detection and Profiling
+  - Social Media Community Detection and Profiling
 	
 + **Natural Language Processing**  
   - Context Representation Learning (words, sentences, documents)
