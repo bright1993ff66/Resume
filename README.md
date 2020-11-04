@@ -10,20 +10,20 @@ Date of Birth: 1993-02-17
 
 ## Research Interests
 
++ **Social Media Data Analysis**  
+  - Sentiment Analysis of Tweets/Weibos
+  - Traffic-related Social Media Data Detection, GIS analysis and Characterization
+	- Social Media Community Detection and Profiling
+	
 + **Natural Language Processing**  
-  - sentiment analysis, cross domain adaptation in NLP, representation learning
-  - social media data analysis
-	
-+ **Statistical Modeling**  
-  - empirical-likelihood based inference  
-  - multiple linear regression
-	
+  - Context Representation Learning (words, sentences, documents)
+  - Application of Context Representation in Downstream Tasks such as Text Classification and Information Extraction
 
 
 ## Education 
 
-+ **2018.09 - Now**
-**City University of Hong Kong, Hong Kong, China**
++ **2018.09 - Now**   
+**City University of Hong Kong, Hong Kong, China** 
 PhD Student
 
 + **2015.09 - 2016.09**  
@@ -31,7 +31,6 @@ PhD Student
 MSc. Statistics and Operational Research 
 	- Overall Classification of the Qualification: With Distinction	
 	- Average Points: 77/100
-	
 + **2011.09 - 2015.06**  
 **Beifang University of Nationalities, Ningxia, China**  
 	BSc. Statistics	 
@@ -82,7 +81,7 @@ Data Repository and Data Mining
 
 + **Language** Chinese(Native Speaker), English, Spanish(Basic)
 + **Programming Language** Python, R, SQL
-+ **Framework** Tensorflow, PyTorch, NLTK, scikit-learn, gensim, MXNet
++ **Framework** Tensorflow, PyTorch, NLTK, SpaCy, Gensim, DGL
 + **Productivity Tools** Latex, markdown
 
 ## Person
