@@ -8,19 +8,18 @@ GitHub: <https://github.com/bright1993ff66>
 
 Date of Birth: 1993-02-17  
 
-## Research Interests
+## Research Interests:star:
 
-+ **Social Media Data Analysis**  
-  - Sentiment Analysis of Tweets/Weibos
-  - Traffic-related Social Media Data Detection, GIS analysis and Characterization
++ **Social Media Data Analysis and Its Application in Smart Cities**  
+  - Traffic-related Social Media Data Detection, GIS analysis and Traffic Information Characterization
   - Social Media Community Detection and Profiling
-	
+
 + **Natural Language Processing**  
   - Context Representation Learning (words, sentences, documents)
   - Application of Context Representation in Downstream Tasks such as Text Classification and Information Extraction
 
 
-## Education 
+## Education :bookmark_tabs:
 
 + **2018.09 - Now**   
 **City University of Hong Kong, Hong Kong, China** 
