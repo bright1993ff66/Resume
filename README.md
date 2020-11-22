@@ -22,19 +22,20 @@ Date of Birth: 1993-02-17
 ## Education :bookmark_tabs:
 
 + **2018.09 - Now**   
-**City University of Hong Kong, Hong Kong, China** 
+**City University of Hong Kong, Hong Kong, China**   
 PhD Student
 
 + **2015.09 - 2016.09**  
-**The University of Edinburgh, Scotland, UK**
+**The University of Edinburgh, Scotland, UK**  
 MSc. Statistics and Operational Research 
 	- Overall Classification of the Qualification: With Distinction	
 	- Average Points: 77/100
+
 + **2011.09 - 2015.06**  
-**Beifang University of Nationalities, Ningxia, China**  
-	BSc. Statistics	 
-	- Average Points: 88/100
-	- Recipient of Chinese National Scholarship(2011-2012)
+  **Beifang University of Nationalities, Ningxia, China**  
+  BSc. Statistics
+  - Recipient of Chinese National Scholarship(2011-2012)
+  - Average Points: 88/100
 
 ## Research Experience  
 
