@@ -37,7 +37,7 @@ MSc. Statistics and Operational Research
   - Recipient of Chinese National Scholarship(2011-2012)
   - Average Points: 88/100
 
-## Research Experience  
+## Research Experience:microscope:
 
 + **2017.08 - 2017.11**  
 **Natural Language Processing based Recommender System**
@@ -53,8 +53,16 @@ MSc. Statistics and Operational Research
 	- Implemented empirical likelihood method on various datasets and made relevant statistical inference from univariate mean to regression parameters 
 	- Successfully proved that the empirical likelihood approach was more data-oriented than the parametric methods 
 
+# Project Experience:construction_worker_man:
 
-## Work Experience  
+- **2018.10 - Now**  
+  **Crawl and Manage the Tweets Posted in 27 Cities Worldwide**
+  - Set up [Amazon EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) instances and used [Twitter Streaming API](https://developer.twitter.com/en/docs) to collect the tweets posted in major cities worldwide, including US cities(Atlanta, Boston, Chicago, etc.), European Cities(London, Madrid, etc.), and other major cities(Taipei, Bangkok, Tokyo, etc)
+  - Monitor the tweet collection process on a daily basis
+  - Saved the collected tweets to [Amazon S3](https://aws.amazon.com/s3/) and local server for the following analysis
+
+
+## Work Experience:handshake:
 
 + **2016.10 - 2017.04** Research Executive  
 **Department of Automobile, Ipsos Beijing, China**  
@@ -62,20 +70,6 @@ MSc. Statistics and Operational Research
 	- Specialized in the research of whole automobile market and market segment, the evaluation of product and its positioning, the analysis of competitors, etc.
 	- Used popular Python based modules such as nltk, sklearn to do sentiment analysis of customers' web comments on popular Chinese car brands 
 	- Used R packages (rvest, RCurl, etc.) to design web crawler from scratch and got useful raw data. Completed data visualization tasks using popular R packages(ggplot2, corrplot, etc.)
-
-
-## Curriculum & Knowledge
-
-+ **Mathematics & Statistics**  
-Linear Algebra/Theory of Matrices/Advanced Algebra   
-Nonlinear Optimization/Stochastic Modelling  
-Fundamentals of Operational Research/Probability Theory  
-Statistical Theory/Statistical Regression Models
-
-+ **Computer Science**  
-Machine Learning/Neural Networks   
-Natural Language Processing/Database System   
-Data Repository and Data Mining 
 
 ## Skills
 
