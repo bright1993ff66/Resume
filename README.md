@@ -53,7 +53,7 @@ MSc. Statistics and Operational Research
 	- Implemented empirical likelihood method on various datasets and made relevant statistical inference from univariate mean to regression parameters 
 	- Successfully proved that the empirical likelihood approach was more data-oriented than the parametric methods 
 
-# Project Experience
+## Project Experience
 
 - **2018.10 - Now**  
   **Crawl and Manage the Tweets Posted in 27 Cities Worldwide**
