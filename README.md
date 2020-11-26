@@ -10,7 +10,7 @@ Date of Birth: 1993-02-17
 
 ## Research Interests
 
-+ **Social Media Data Analysis and Its Application in Smart Cities**  
++ **Social Media Data Analysis and Its Application in Transportation and Urban Planning**
   - Traffic-related Social Media Data Detection, GIS analysis and Traffic Information Characterization
   - Social Media Community Detection and Profiling
 
@@ -39,19 +39,21 @@ MSc. Statistics and Operational Research
 
 ## Research Experience
 
-+ **2017.08 - 2017.11**  
-**Natural Language Processing based Recommender System**
-	- Based on a Coursera corpus, used language models such as LSI and LDA to recommend courses to Coursera learners  
-	
-+ **2016.10 - 2017.05**   
-**Sentiment Analysis of Movie Reviews in NLTK Movie Reviews Corpora**
-	- Firstly used basic machine learning methods(Naïve Bayes, logistics regression, SVM, etc.) to classify the sentiments 
-	- Then implemented word embeddings, MLP classifier, etc. to solve the sentiment analysis problem
-
-+ **2016.05 - 2016.08**   
-**Application of Empirical Likelihood for Statistical Analysis(MSc. dissertation)**
-	- Implemented empirical likelihood method on various datasets and made relevant statistical inference from univariate mean to regression parameters 
-	- Successfully proved that the empirical likelihood approach was more data-oriented than the parametric methods 
+- **2020.5 - Now**  
+  **Traffic Relevant Weibo Detection and Analysis in Shanghai**
+  - Use [Weibo API](https://open.weibo.com/wiki/API) to crawl the Weibos posted near Shanghai from 2012 to 2014
+  - Manually label the collected Weibos and train the deep learning models such as ```CNN-LSTM``` and ```Transformer``` based models to detect the traffic relevant Weibos
+  - Based on the detected traffic relevant microblogs, conduct traffic relevant Weibo analysis, characterize the areas with high density of traffic events
+- **2020.3 - Now**  
+  **Traffic Information Recommendation Using Graph Neural Networks**
+  - Use [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in major US cities in 2018
+  - Based on user's historical interaction with traffic relevant messages in social media, build the graph between the social media users and places
+  - Use Graph Attention Network to encode the user-place graph and make traffic information recommendation
+- **2018.11 - 2020.5**  
+  **Evaluate the Influence of New Transit Stations on Nearby People in Hong Kong**
+  - Use  [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in Hong Kong from May 2016 to December 2018
+  - Use [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) to find the tweets posted in the walkable distance (500 meter) around the new transit stations
+  - Use sentiment analysis to estimate the sentiment of tweets posted near transit stations. Evaluate the influence of new transit stations on nearby people by comparing the sentiment and number of posted tweets before and after the introduction of transit stations
 
 ## Project Experience
 
