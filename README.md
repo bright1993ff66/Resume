@@ -53,7 +53,7 @@ MSc. Statistics and Operational Research
   **Evaluated the Influence of New Transit Stations on Nearby People in Hong Kong**
   - Used  [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in Hong Kong from May 2016 to December 2018
   - Run [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) to find the tweets posted in the walkable distance (500 meter) around the new transit stations
-  - Apply sentiment analysis to estimate the sentiment of tweets posted near transit stations. Evaluate the influence of new transit stations on nearby people by comparing the sentiment and number of posted tweets before and after the introduction of transit stations
+  - Applied sentiment analysis to estimate the sentiment of tweets posted near transit stations. Evaluated the influence of new transit stations on nearby people by comparing the sentiment and number of posted tweets before and after the introduction of transit stations
 
 ## Project Experience
 
