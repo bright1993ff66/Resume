@@ -50,10 +50,10 @@ MSc. Statistics and Operational Research
   - Based on user's historical interaction with traffic relevant messages in social media, build the graph between the social media users and places
   - Use Graph Attention Network to encode the user-place graph and make traffic information recommendation
 - **2018.11 - 2020.5**  
-  **Evaluate the Influence of New Transit Stations on Nearby People in Hong Kong**
-  - Use  [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in Hong Kong from May 2016 to December 2018
-  - Use [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) to find the tweets posted in the walkable distance (500 meter) around the new transit stations
-  - Use sentiment analysis to estimate the sentiment of tweets posted near transit stations. Evaluate the influence of new transit stations on nearby people by comparing the sentiment and number of posted tweets before and after the introduction of transit stations
+  **Evaluated the Influence of New Transit Stations on Nearby People in Hong Kong**
+  - Used  [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in Hong Kong from May 2016 to December 2018
+  - Run [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview) to find the tweets posted in the walkable distance (500 meter) around the new transit stations
+  - Apply sentiment analysis to estimate the sentiment of tweets posted near transit stations. Evaluate the influence of new transit stations on nearby people by comparing the sentiment and number of posted tweets before and after the introduction of transit stations
 
 ## Project Experience
 
