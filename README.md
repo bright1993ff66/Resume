@@ -77,6 +77,7 @@ MSc. Statistics and Operational Research
 + **Language:** Chinese(Native Speaker), English, Spanish(Basic)
 + **Programming Languages:** Python, R, SQL
 + **Framework:** ```Tensorflow```, ```PyTorch```, ```NLTK```, ```SpaCy```, ```Gensim```, ```DGL```, ```networkx```
++ **GIS Analysis:** ArcGIS, python arcpy
 + **Productivity Tools:** Latex, Markdown, Git, Vim, PyCharm
 
 ## Person
