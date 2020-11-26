@@ -41,9 +41,9 @@ MSc. Statistics and Operational Research
 
 - **2020.5 - Now**  
   **Traffic Relevant Weibo Detection and Analysis in Shanghai**
-  - Use [Weibo API](https://open.weibo.com/wiki/API) to crawl the Weibos posted near Shanghai from 2012 to 2014
+  - Use [Weibo API](https://open.weibo.com/wiki/API) to crawl the Weibos posted near Shanghai in 2012 
   - Manually label the collected Weibos and train the deep learning models such as ```CNN-LSTM``` and ```Transformer``` based models to detect the traffic relevant Weibos
-  - Based on the detected traffic relevant microblogs, conduct traffic relevant Weibo analysis, characterize the areas with high density of traffic events
+  - Based on the detected traffic relevant microblogs, conduct traffic relevant Weibo analysis, characterize the areas with high density of traffic events through text mining
 - **2020.3 - Now**  
   **Traffic Information Recommendation Using Graph Neural Networks**
   - Use [Twitter API](https://developer.twitter.com/en/docs) to collect tweets posted in major US cities in 2018
