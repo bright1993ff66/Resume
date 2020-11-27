@@ -66,7 +66,7 @@ MSc. Statistics and Operational Research
   **Find the Tweets Posted in Singapore Open Space**
   - Crawled the land use data from [OpenStreetMap](https://www.openstreetmap.org/#map=11/22.3567/114.1363) in Singapore
   - Run Python scripts to get tweets with geo-information
-  - Use the [Spatial Join](https://pro.arcgis.com/en/pro-app/tool-reference/analysis/spatial-join.htm) method in ```arcpy``` to find the tweets posted in Singapore open space such as amusement parks, playgrounds and green space
+  - Used the [Spatial Join](https://pro.arcgis.com/en/pro-app/tool-reference/analysis/spatial-join.htm) method in ```arcpy``` to find the tweets posted in Singapore open space such as amusement parks, playgrounds and green space
 
 
 ## Work Experience
