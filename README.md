@@ -61,7 +61,7 @@ MSc. Statistics and Operational Research
   **Crawl and Manage the Tweets Posted in 27 Cities Worldwide**
   - Set up [Amazon EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) instances and used [Twitter Streaming API](https://developer.twitter.com/en/docs) to collect the tweets posted in major cities worldwide, including US cities(Atlanta, Boston, Chicago, etc.), European Cities(London, Madrid, etc.), and other major cities(Taipei, Bangkok, Tokyo, etc)
   - Monitor the tweet collection process on a daily basis
-  - Saved the collected tweets to [Amazon S3](https://aws.amazon.com/s3/) and local server for the following analysis
+  - Saved the collected tweets to [Amazon S3](https://aws.amazon.com/s3/) and local server for the following research
 - **2020.8-2020.9**  
   **Find the Tweets Posted in Singapore Open Space**
   - Crawled the land use data from [OpenStreetMap](https://www.openstreetmap.org/#map=11/22.3567/114.1363) in Singapore
@@ -76,6 +76,7 @@ MSc. Statistics and Operational Research
   + Specialized in the research of whole automobile market and market segment, the evaluation of product and its positioning, the analysis of competitors, etc.
   + Used popular Python based modules such as ```nltk```, ```gensim```, and ```sklearn``` to do sentiment analysis of customers' web comments on popular Chinese car brands 
   + Used R packages (```rvest```, ```RCurl```, etc.) to design web crawler from scratch and got useful raw data. Completed data visualization tasks using popular R packages(```ggplot2```, ```corrplot```, etc.)
+  + Participated in the on-site market research project, designed the questionnaire, discussed with car buyers about the automobile market and car models, and wrote the project report for clients from automobile industry
 
 ## Skills
 
@@ -83,7 +84,7 @@ MSc. Statistics and Operational Research
 + **Programming Languages:** Python, R, SQL
 + **Framework:** ```Tensorflow```, ```PyTorch```, ```NLTK```, ```SpaCy```, ```Gensim```, ```DGL```, ```networkx```
 + **GIS Analysis:** ArcGIS, python ```arcpy```
-+ **Productivity Tools:** Latex, Markdown, Git, Vim, PyCharm
++ **Productivity Tools:** LaTex, Markdown, Git, Vim, PyCharm
 
 ## Person
 
