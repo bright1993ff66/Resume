@@ -1,4 +1,4 @@
-Name: Haoliang Chang
+Name: Haoliang CHANG
 
 Email: <hlchang4-c@my.cityu.edu.hk>  
 
@@ -83,7 +83,7 @@ PhD Student
 + **Language:** Chinese(Native Speaker), English, Spanish(Basic)
 + **Programming Languages:** Python, R, SQL
 + **Framework:** ```Tensorflow```, ```PyTorch```, ```NLTK```, ```SpaCy```, ```Gensim```, ```DGL```, ```networkx```
-+ **GIS Analysis:** ArcGIS, python ```arcpy```
++ **GIS Analysis:** ArcGIS, python ```arcpy```, ```geopandas```
 + **Productivity Tools:** LaTex, Markdown, Git, Vim, PyCharm
 
 ## Person
