@@ -24,18 +24,20 @@ Date of Birth: 1993-02-17
 + **2018.09 - Now**   
 **City University of Hong Kong, Hong Kong, China**   
 PhD Student
-
 + **2015.09 - 2016.09**  
-**The University of Edinburgh, Scotland, UK**  
-MSc. Statistics and Operational Research 
+	**The University of Edinburgh, Scotland, UK**  
+	MSc. Statistics and Operational Research 
 	- Overall Classification of the Qualification: With Distinction	
 	- Average Points: 77/100
-
 + **2011.09 - 2015.06**  
   **Beifang University of Nationalities, Ningxia, China**  
   BSc. Statistics
   - Recipient of Chinese National Scholarship(2011-2012)
   - Average Points: 88/100
+
+## Publication
+
+- [Chang, H., Li, L., Huang, J., Zhang, Q., & Chin, K. S. (2022). Tracking traffic congestion and accidents using social media data: A case study of Shanghai. *Accident Analysis & Prevention*, *169*, 106618.](https://www.sciencedirect.com/science/article/abs/pii/S0001457522000549?casa_token=PJWvVtffFYYAAAAA:nXBvMQmQ83TDL4U7NB_2TZ0VSLZT8V6he5R9RPksds_7C7thfttT6HG5xYM6bPdcowZ1rK6u)
 
 ## Research Experience
 
