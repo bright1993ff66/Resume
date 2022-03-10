@@ -1,7 +1,5 @@
 Name: Haoliang Chang
 
-Tel: (+852) 52265021
-
 Email: <hlchang4-c@my.cityu.edu.hk>  
 
 GitHub: <https://github.com/bright1993ff66>  
