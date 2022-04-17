@@ -85,7 +85,7 @@ PhD Student
 + **Programming Languages:** Python, R, SQL
 + **Framework:** ```Tensorflow```, ```PyTorch```, ```NLTK```, ```SpaCy```, ```Gensim```, ```DGL```, ```networkx```
 + **GIS Analysis:** ArcGIS, python ```arcpy```, ```geopandas```
-+ **Productivity Tools:** LaTex, Markdown, Git, Vim, PyCharm
++ **Productivity Tools:** LaTex, Markdown, Git, Vim, PyCharm, MySQL, Docker
 
 ## Person
 
