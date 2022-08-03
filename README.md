@@ -19,9 +19,12 @@ Date of Birth: 1993-02-17
 
 ## Education
 
-+ **2018.09 - Now**   
++ **2022.08 - Now**   
+  **Hong Kong University of Science and Technology, Guangzhou, China**   
+  Postdoc in Urban Transportation Management and Public Policies
++ **2018.09 - 2022.06**   
 **City University of Hong Kong, Hong Kong, China**   
-PhD Student
+PhD in Advanced Design and Systems Engineering
 + **2015.09 - 2016.09**  
 	**The University of Edinburgh, Scotland, UK**  
 	MSc. Statistics and Operational Research 
