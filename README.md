@@ -1,6 +1,6 @@
 Name: Haoliang CHANG
 
-Email: <hlchang4-c@my.cityu.edu.hk>  
+Email: <hlchang@ust.hk>  
 
 GitHub: <https://github.com/bright1993ff66>  
 
