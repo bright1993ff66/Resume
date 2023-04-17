@@ -38,10 +38,14 @@ PhD in Advanced Design and Systems Engineering
 
 ## Publication
 
-- [Hao, T., **Chang, H.**, Liang, S., Jones, P., Chan, P., Li, L., Huang, J. Heat and park attendance: Evidence from “small data” and “big data” in Hong Kong. *Building and Environment*, 234, 110123]([Heat and park attendance: Evidence from “small data” and “big data” in Hong Kong - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0360132323001506))
+- [Hao, T., **Chang, H.**, Liang, S., Jones, P., Chan, P., Li, L., Huang, J. Heat and park attendance: Evidence from “small data” and “big data” in Hong Kong. *Building and Environment*, 234, 110123](https://www.sciencedirect.com/science/article/abs/pii/S0360132323001506)
 - [**Chang, H.**, Li, L., Huang, J., Zhang, Q., & Chin, K. S. (2022). Tracking traffic congestion and accidents using social media data: A case study of Shanghai. *Accident Analysis & Prevention*, *169*, 106618.](https://www.sciencedirect.com/science/article/abs/pii/S0001457522000549?casa_token=PJWvVtffFYYAAAAA:nXBvMQmQ83TDL4U7NB_2TZ0VSLZT8V6he5R9RPksds_7C7thfttT6HG5xYM6bPdcowZ1rK6u)
 - [**Chang, H.**, Huang, J., Yao, W., Zhao, W., & Li, L. (2022). How do new transit stations affect people's sentiment and activity? A case study based on social media data in Hong Kong. *Transport Policy*.](https://www.sciencedirect.com/science/article/pii/S0967070X22000798)
 - [Huang, J., Cui, Y., **Chang, H.**, Obracht-Prondzyńska, H., Kamrowska-Zaluska, D., & Li, L. (2022). A city is not a tree: a multi-city study on street network and urban life. *Landscape and Urban Planning*, 226, 104469.](https://www.sciencedirect.com/science/article/pii/S0169204622001189)
+
+## Research Service
+
+- Reviewer, *[Accident Analysis and Prevention]([Accident Analysis & Prevention | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/accident-analysis-and-prevention))*
 
 ## Research Experience
 
