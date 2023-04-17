@@ -45,7 +45,7 @@ PhD in Advanced Design and Systems Engineering
 
 ## Research Service
 
-- Reviewer, *[Accident Analysis and Prevention]([Accident Analysis & Prevention | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/accident-analysis-and-prevention))*
+- Reviewer, *[Accident Analysis and Prevention](https://www.sciencedirect.com/journal/accident-analysis-and-prevention)*
 
 ## Research Experience
 
